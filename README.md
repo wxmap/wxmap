@@ -1,4 +1,4 @@
-# SimpleMap-WX
+# wxmap
 为微信小程序提供的一个基于Canvas的自定义地图控件，实现了瓦片地图、自定义标记图层和多种交互部件。
 
 <br>
@@ -6,15 +6,6 @@
 仓库根目录是一个小程序 Demo 项目，可以直接使用微信开发者工具打开进行预览，预览时需勾上“不校验合法域名”。
 
 <br>
-
-> SimpleMap 组件实际使用案例：
-> 
-> 微信小程序“小恐龙课程表” —— 校园地图功能
->
-> [无法加载动图？点击这里](https://dennic365.com/dino/static/GIF-180504_111653.gif)<br/>
-> ![演示动图](https://dennic365.com/dino/static/GIF-180504_111653.gif)
-
-----------
 
 + [详细文档](#详细文档)
 + [简单使用](#简单使用)
@@ -36,7 +27,7 @@
 
 ## 详细文档
 
-[查看详细文档](https://github.com/Dennic/SimpleMap-wx/wiki)
+[查看详细文档](https://github.com/wxmap/wxmap/wiki)
 
 ## 简单使用
 
